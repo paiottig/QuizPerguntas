@@ -1,0 +1,159 @@
+P:Qual e a organela responsavel pela producao de energia na celula?
+A:Nucleo
+A:Mitocondria
+A:Cloroplasto
+A:Ribossomo
+R:2
+D:1
+
+P:Qual e o processo de respiracao das plantas?
+A:Fotossintese
+A:Transpiracao
+A:Respiracao celular
+A:Germinacao
+R:1
+D:1
+
+P:Qual e o maior animal terrestre?
+A:Elefante Africano
+A:Baleia Azul
+A:Girafa
+A:Rinoceronte
+R:1
+D:1
+
+P:Qual e o nome cientifico do ser humano?
+A:Homo sapiens
+A:Homo erectus
+A:Homo neanderthalensis
+A:Homo habilis
+R:1
+D:1
+
+P:Qual e o sistema do corpo humano responsavel pela circulacao do sangue?
+A:Digestorio
+A:Respiratorio
+A:Cardiovascular
+A:Nervoso
+R:3
+D:1
+
+P:Qual e o principal gas liberado na fotossintese?
+A:Oxigenio
+A:Gas carbonico
+A:Nitrogenio
+A:Metano
+R:1
+D:1
+
+P:Qual e o nome do processo de divisao celular?
+A:Mitose
+A:Meiose
+A:Fertilizacao
+A:Replicacao
+R:1
+D:1
+
+P:Qual e o maior orgao do corpo humano?
+A:Coracao
+A:Pele
+A:Figado
+A:Cerebro
+R:2
+D:1
+
+P:Qual e o nome do cientista conhecido como "pai da genetica"?
+A:Charles Darwin
+A:Gregor Mendel
+A:Louis Pasteur
+A:Albert Einstein
+R:2
+D:1
+
+P:Qual e o grupo sanguineo considerado doador universal?
+A:A
+A:B
+A:AB
+A:O
+R:4
+D:2
+
+P:Qual e o nome do processo de formacao de novas especies?
+A:Evolucao
+A:Selecao natural
+A:Especiacao
+A:Mutacao
+R:3
+D:3
+
+P:Qual e o principal componente do virus?
+A:Celula
+A:DNA ou RNA
+A:Proteina
+A:Lipidios
+R:2
+D:2
+
+P:Qual e o nome da teoria que explica a origem das mitocondrias e cloroplastos?
+A:Teoria Celular
+A:Teoria Endossimbiotica
+A:Teoria da Evolucao
+A:Teoria Cromossomica
+R:2
+D:3
+
+P:Qual e o hormonio responsavel pelo controle da glicose no sangue?
+A:Insulina
+A:Adrenalina
+A:Testosterona
+A:Estrogenio
+R:1
+D:2
+
+P:Qual e o nome do processo de producao de gametas?
+A:Mitose
+A:Meiose
+A:Fertilizacao
+A:Replicacao
+R:2
+D:2
+
+P:Qual e o nome da estrutura que protege o embriao das aves e repteis?
+A:Placenta
+A:Corion
+A:Casca
+A:amnio
+R:3
+D:3
+
+P:Qual e o nome do processo de perda de agua pelas plantas?
+A:Fotossintese
+A:Transpiracao
+A:Respiracao
+A:Germinacao
+R:2
+D:2
+
+P:Qual e o nome do sistema de classificacao dos seres vivos?
+A:Taxonomia
+A:Genetica
+A:Ecologia
+A:Biogeografia
+R:1
+D:1
+
+P:Qual e o nome da estrutura responsavel pela fixacao do nitrogenio em algumas plantas?
+A:Raiz
+A:Nodulo
+A:Flor
+A:Fruto
+R:2
+D:3
+
+P:Qual e o nome do processo de producao de ATP na celula?
+A:Fotossintese
+A:Respiracao celular
+A:Fermentacao
+A:Digestao
+R:2
+D:2

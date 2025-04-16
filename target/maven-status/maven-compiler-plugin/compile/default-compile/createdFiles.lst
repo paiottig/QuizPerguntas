@@ -1,2 +1,6 @@
+com\quizperguntas\servicos\PerguntaService.class
+com\quizperguntas\servicos\RankingService.class
 com\quizperguntas\QuizPerguntas.class
-com\quizperguntas\Pergunta.class
+com\quizperguntas\modelo\Jogador.class
+com\quizperguntas\modelo\Pergunta.class
+com\quizperguntas\servicos\PerguntaService$1.class

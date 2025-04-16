@@ -1,0 +1,159 @@
+P:Em que ano o Brasil foi descoberto?
+A:1492
+A:1500
+A:1520
+A:1453
+R:2
+D:1
+
+P:Quem foi o primeiro presidente do Brasil?
+A:Deodoro da Fonseca
+A:Getulio Vargas
+A:Dom Pedro II
+A:Juscelino Kubitschek
+R:1
+D:1
+
+P:Qual foi o periodo da Inconfidencia Mineira?
+A:1789
+A:1822
+A:1848
+A:1750
+R:1
+D:2
+
+P:Quem proclamou a Independencia do Brasil?
+A:Dom Pedro I
+A:Dom Pedro II
+A:Tiradentes
+A:Duque de Caxias
+R:1
+D:1
+
+P:Qual foi o principal produto economico do Brasil no seculo XVIII?
+A:Cafe
+A:Acucar
+A:Ouro
+A:Algodao
+R:3
+D:2
+
+P:Em que ano a escravidao foi abolida no Brasil?
+A:1888
+A:1822
+A:1850
+A:1871
+R:1
+D:1
+
+P:Qual foi a capital do Brasil antes de Brasilia?
+A:Rio de Janeiro
+A:Sao Paulo
+A:Salvador
+A:Belo Horizonte
+R:1
+D:1
+
+P:Quem foi Zumbi dos Palmares?
+A:Um lider indigena
+A:Um lider quilombola
+A:Um imperador
+A:Um presidente
+R:2
+D:2
+
+P:Qual foi o periodo da Revolucao Farroupilha?
+A:1835-1845
+A:1817-1821
+A:1848-1849
+A:1789-1794
+R:1
+D:3
+
+P:Quem foi a primeira mulher a governar o Brasil?
+A:Princesa Isabel
+A:Maria da Gloria
+A:Maria Quiteria
+A:Anita Garibaldi
+R:1
+D:2
+
+P:Qual foi o principal tratado que definiu as fronteiras do Brasil no periodo colonial?
+A:Tratado de Tordesilhas
+A:Tratado de Madri
+A:Tratado de Petropolis
+A:Tratado de Versalhes
+R:2
+D:3
+
+P:Em que ano foi fundada a cidade de Sao Paulo?
+A:1554
+A:1500
+A:1600
+A:1700
+R:1
+D:2
+
+P:Qual foi o principal lider da Revolucao Pernambucana de 1817?
+A:Tiradentes
+A:Dom Pedro I
+A:Padre Joao Ribeiro
+A:Duque de Caxias
+R:3
+D:3
+
+P:Qual foi o periodo do Brasil Colonia?
+A:1500-1822
+A:1822-1889
+A:1889-1930
+A:1930-1945
+R:1
+D:1
+
+P:Quem foi o principal lider da Revolta da Armada?
+A:Deodoro da Fonseca
+A:Floriano Peixoto
+A:Marechal Deodoro
+A:Almirante Custodio de Melo
+R:4
+D:3
+
+P:Qual foi o principal motivo da Guerra do Paraguai?
+A:Disputa por terras
+B:Disputa por recursos naturais
+C:Disputa por navegacao no Rio da Prata
+D:Disputa por independencia
+R:3
+D:3
+
+P:Qual foi o periodo da Republica Velha?
+A:1889-1930
+B:1822-1889
+C:1930-1945
+D:1945-1964
+R:1
+D:2
+
+P:Quem foi o presidente do Brasil durante a Segunda Guerra Mundial?
+A:Getulio Vargas
+B:Juscelino Kubitschek
+C:Floriano Peixoto
+D:Epitacio Pessoa
+R:1
+D:2
+
+P:Qual foi o principal objetivo da Revolucao de 1930?
+A:Independencia do Brasil
+B:Fim da Republica Velha
+C:Abolicao da escravidao
+D:Proclamacao da Republica
+R:2
+D:3
+
+P:Qual foi o periodo da Ditadura Militar no Brasil?
+A:1964-1985
+B:1930-1945
+C:1945-1964
+D:1985-2002
+R:1
+D:2

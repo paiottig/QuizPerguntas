@@ -1,0 +1,159 @@
+P:Qual e a capital do Brasil?
+A:Brasilia
+A:Sao Paulo
+A:Rio de Janeiro
+A:Salvador
+R:1
+D:1
+
+P:Qual e o maior pais do mundo em area territorial?
+A:China
+A:Estados Unidos
+A:Russia
+A:Canada
+R:3
+D:1
+
+P:Qual e o oceano mais extenso do mundo?
+A:Atlantico
+A:indico
+A:Pacifico
+A:artico
+R:3
+D:1
+
+P:Qual e o ponto mais alto do Brasil?
+A:Pico da Neblina
+A:Pico da Bandeira
+A:Monte Roraima
+A:Morro da Igreja
+R:1
+D:2
+
+P:Qual e o rio mais extenso do mundo?
+A:Nilo
+A:Amazonas
+A:Mississipi
+A:Yangtze
+R:2
+D:2
+
+P:Qual desses paises nao faz parte da Europa?
+A:Australia
+A:Franca
+A:Alemanha
+A:Italia
+R:1
+D:1
+
+P:Qual e o deserto mais quente do mundo?
+A:Saara
+A:Atacama
+A:Gobi
+A:Arabia
+R:1
+D:1
+
+P:Qual e o pais conhecido como "Terra do Sol Nascente"?
+A:China
+A:Japao
+A:Coreia do Sul
+A:Vietna
+R:2
+D:1
+
+P:Qual e o clima predominante no Brasil?
+A:Equatorial
+A:Tropical
+A:Desertico
+A:Polar
+R:2
+D:2
+
+P:Qual e a capital da Argentina?
+A:Buenos Aires
+A:Montevideu
+A:Santiago
+A:Lima
+R:1
+D:1
+
+P:Qual e o menor pais do mundo?
+A:Monaco
+A:Nauru
+A:Vaticano
+A:San Marino
+R:3
+D:1
+
+P:Qual e o continente mais populoso do mundo?
+A:africa
+A:America
+A:asia
+A:Europa
+R:3
+D:1
+
+P:Qual e a montanha mais alta do mundo?
+A:Monte Everest
+A:K2
+A:Monte Kilimanjaro
+A:Monte Aconcagua
+R:1
+D:1
+
+P:Qual e o pais com maior numero de fusos horarios?
+A:Estados Unidos
+A:Russia
+A:China
+A:Australia
+R:2
+D:2
+
+P:Qual e a capital da Australia?
+A:Sydney
+A:Melbourne
+A:Camberra
+A:Perth
+R:3
+D:2
+
+P:Qual e o lago mais profundo do mundo?
+A:Lago Titicaca
+A:Lago Baikal
+A:Lago Vitoria
+A:Lago Superior
+R:2
+D:3
+
+P:Qual e o pais mais populoso do mundo?
+A:india
+A:China
+A:Estados Unidos
+A:Indonesia
+R:2
+D:1
+
+P:Qual e o maior estado do Brasil em area territorial?
+A:Amazonas
+A:Para
+A:Mato Grosso
+A:Minas Gerais
+R:1
+D:1
+
+P:Qual e o principal bioma da regiao centro-oeste do Brasil?
+A:Caatinga
+A:Cerrado
+A:Mata Atlantica
+A:Pampa
+R:2
+D:2
+
+P:Qual e o pais que nao faz fronteira com o Brasil?
+A:Chile
+A:Argentina
+A:Paraguai
+A:Uruguai
+R:1
+D:1

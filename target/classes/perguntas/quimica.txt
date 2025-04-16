@@ -1,0 +1,159 @@
+P:Qual e o elemento quimico com simbolo 'O'?
+A:Ouro
+A:Oxigenio
+A:Hidrogenio
+A:Osmio
+R:2
+D:1
+
+P:Qual e o pH da agua pura?
+A:5
+A:7
+A:10
+A:0
+R:2
+D:1
+
+P:Qual e o gas mais abundante na atmosfera terrestre?
+A:Oxigenio
+A:Nitrogenio
+A:Gas Carbonico
+A:Argonio
+R:2
+D:1
+
+P:Qual e a formula quimica da agua?
+A:HO
+A:H2O
+A:H2O2
+A:HO2
+R:2
+D:1
+
+P:Qual e o metal mais condutor de eletricidade?
+A:Aluminio
+A:Prata
+A:Cobre
+A:Ouro
+R:2
+D:2
+
+P:Qual e o nome do processo de transformacao de liquido em gas?
+A:Fusao
+A:Solidificacao
+A:Evaporacao
+A:Condensacao
+R:3
+D:1
+
+P:Qual e o elemento mais eletronegativo da tabela periodica?
+A:Fluor
+A:Cloro
+A:Oxigenio
+A:Nitrogenio
+R:1
+D:2
+
+P:Qual e a principal propriedade dos acidos?
+A:pH maior que 7
+B:pH menor que 7
+C:pH igual a 7
+D:Nao alteram o pH
+R:2
+D:1
+
+P:Qual e o nome da reacao entre acido e base?
+A:Oxidacao
+B:Reducao
+C:Neutralizacao
+D:Combustao
+R:3
+D:1
+
+P:Qual e o simbolo quimico do ouro?
+A:Ag
+A:Fe
+A:Au
+A:Hg
+R:3
+D:1
+
+P:Qual e o nome do modelo atomico proposto por Rutherford?
+A:Pudim de passas
+B:Planetario
+C:Orbitais
+D:Quantico
+R:2
+D:3
+
+P:Qual e o estado fisico do mercurio em temperatura ambiente?
+A:Solido
+B:Liquido
+C:Gasoso
+D:Plasma
+R:2
+D:1
+
+P:Qual e a formula quimica do gas carbonico?
+A:CO
+B:CO2
+C:C2O
+D:CO3
+R:2
+D:1
+
+P:Qual e o nome do processo de separacao de misturas homogeneas?
+A:Filtracao
+B:Decantacao
+C:Destilacao
+D:Centrifugacao
+R:3
+D:2
+
+P:Qual e a carga eletrica do proton?
+A:Positiva
+B:Negativa
+C:Neutra
+D:Variavel
+R:1
+D:1
+
+P:Qual e o nome da substancia conhecida como "alcool comum"?
+A:Metanol
+B:Etanol
+C:Propanol
+D:Butanol
+R:2
+D:1
+
+P:Qual e o principal componente do gas natural?
+A:Metano
+B:Etano
+C:Propano
+D:Butano
+R:1
+D:2
+
+P:Qual e o nome da reacao que libera calor?
+A:Endotermica
+B:Exotermica
+C:Isotermica
+D:Adiabatica
+R:2
+D:2
+
+P:Qual e o elemento quimico mais abundante no universo?
+A:Hidrogenio
+B:Helio
+C:Oxigenio
+D:Carbono
+R:1
+D:2
+
+P:Qual e o nome do processo de quebra de moleculas organicas com oxigenio?
+A:Fermentacao
+B:Fotossintese
+C:Respiracao celular
+D:Digestao
+R:3
+D:3

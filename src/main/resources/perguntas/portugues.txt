@@ -1,0 +1,159 @@
+P:Qual e o plural da palavra "cidadao"?
+A:Cidadaos
+A:Cidadaes
+A:Cidadoes
+A:Cidadaos
+R:1
+D:1
+
+P:Qual e o antonimo de "alegre"?
+A:Contente
+A:Triste
+A:Feliz
+A:Animado
+R:2
+D:1
+
+P:Qual e o sujeito na frase "O menino comeu o bolo"?
+A:O menino
+A:Comeu
+A:O bolo
+A:Nao ha sujeito
+R:1
+D:1
+
+P:Qual e o tempo verbal de "cantariamos"?
+A:Futuro do presente
+A:Futuro do preterito
+A:Presente do subjuntivo
+A:Preterito imperfeito
+R:2
+D:2
+
+P:Qual e a classe gramatical da palavra "correndo"?
+A:Substantivo
+A:Adjetivo
+A:Adverbio
+A:Verbo
+R:4
+D:1
+
+P:Qual e a figura de linguagem em "O tempo e ouro"?
+A:Metafora
+A:Comparaçao
+A:Hiperbole
+A:Personificaçao
+R:1
+D:2
+
+P:Qual e o sinonimo de "magnanimo"?
+A:Egoista
+A:Generoso
+A:Mesquinho
+A:Avarento
+R:2
+D:3
+
+P:Qual e o nome do estudo da origem das palavras?
+A:Sintaxe
+A:Morfologia
+A:Etimologia
+A:Fonetica
+R:3
+D:2
+
+P:Qual e a regencia correta do verbo "aspirar" no sentido de "almejar"?
+A:Aspirar a
+A:Aspirar de
+A:Aspirar por
+A:Aspirar para
+R:1
+D:3
+
+P:Qual e o nome do sinal grafico usado para indicar crase?
+A:Acento agudo
+A:Acento circunflexo
+A:Til
+A:Acento grave
+R:4
+D:2
+
+P:Qual e a conjugaçao correta do verbo "ter" na 3ª pessoa do plural do preterito perfeito?
+A:Tiveram
+A:Tiverao
+A:Tinham
+A:Tem
+R:1
+D:2
+
+P:Qual e o nome da oraçao que funciona como sujeito?
+A:Subordinada substantiva subjetiva
+A:Subordinada substantiva objetiva
+A:Subordinada adjetiva
+A:Coordenada sindetica
+R:1
+D:3
+
+P:Qual e o nome do poema de 14 versos?
+A:Soneto
+A:Haicai
+A:Ode
+A:Elegia
+R:1
+D:2
+
+P:Qual e o autor de "Os Lusiadas"?
+A:Fernando Pessoa
+A:Luis de Camoes
+A:Castro Alves
+A:Machado de Assis
+R:2
+D:1
+
+P:Qual e o nome da figura de linguagem em "O vento uivava na noite fria"?
+A:Metafora
+A:Personificaçao
+A:Hiperbole
+A:Antitese
+R:2
+D:2
+
+P:Qual e o nome do romance de Machado de Assis que começa com "Ao verme que primeiro roeu..."?
+A:Dom Casmurro
+A:Memorias Postumas de Bras Cubas
+A:Quincas Borba
+A:Helena
+R:2
+D:3
+
+P:Qual e o nome do movimento literario de Aluisio Azevedo?
+A:Romantismo
+A:Realismo
+A:Naturalismo
+A:Modernismo
+R:3
+D:3
+
+P:Qual e o nome da obra de Guimaraes Rosa que se passa no sertao?
+A:Grande Sertao: Veredas
+A:Sagarana
+A:Primeiras Estorias
+A:Tutameia
+R:1
+D:2
+
+P:Qual e o nome da figura de linguagem em "Ela e uma flor"?
+A:Comparaçao
+A:Metafora
+A:Personificaçao
+A:Hiperbole
+R:2
+D:1
+
+P:Qual e o nome do autor de "Vidas Secas"?
+A:Graciliano Ramos
+A:Jorge Amado
+A:erico Verissimo
+A:Jose de Alencar
+R:1
+D:1
