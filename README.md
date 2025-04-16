@@ -45,8 +45,8 @@ Gerencia o ranking de jogadores. Permite salvar novas pontuações no arquivo `r
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/quiz-java.git
-cd quiz-java
+git clone https://github.com/paiottig/QuizPerguntas.git
+cd QuizPerguntas
 ```
 
 2. Compile o projeto:
